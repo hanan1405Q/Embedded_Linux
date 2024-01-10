@@ -16,5 +16,9 @@ int main()
  ml=mul(x,y);
  dv=div(x,y);
  printf("The Addition : %d \n ",ad);
+ printf("The Subtraction : %d \n ",sb);
+printf("The Division: %d \n ",dv);
+ printf("The Multiplication : %d \n ",ml);
+
  return 0;
 }

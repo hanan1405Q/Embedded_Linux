@@ -1,0 +1,15 @@
+## This is  a Calaculator Application ##
+
+This is the Required Command To Run The app After DownLoad it :
+
+
+1-make install 
+
+2-make run 
+
+NOTES:
+     -This Command Sould Run in The Same Locaton of The App Folder .
+
+# Each time u need to run the app just Wite --> make run 
+
+
